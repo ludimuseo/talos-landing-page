@@ -37,8 +37,6 @@ Notre landing page est conçue pour être :
 
 ## 👥 Contributeurs
 
-Un grand merci à nos incroyables contributeurs qui ont rendu ce projet possible :
-
 <table align="center">
   <tr>
     <td align="center">
